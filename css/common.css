@@ -1,0 +1,14 @@
+.section_7>h2{
+    color: #fff;
+}
+
+.section_7>h3{
+    color: #fff;
+}
+
+@media all and (max-width:450px) {
+    .mo {
+        display: block;
+    }
+
+  }
